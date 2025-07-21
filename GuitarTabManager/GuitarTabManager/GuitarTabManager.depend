@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1696195022 source:c:\users\dianb\onedrive\desktop\guitartabmanager\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+
+1753113810 source:c:\users\dianb\downloads\guitartabmanager\guitartabmanager\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+
